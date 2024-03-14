@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Maher</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align ="right" align="coding" width="200" src="C:\Users\mujta\Downloads">
 
 
