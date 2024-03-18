@@ -1,3 +1,4 @@
+![logo](https://github.com/mujtaba971/mujtaba971/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Mujtaba Maher</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 <img align ="right" align="coding" width="200" src="C:\Users\mujta\Downloads">
